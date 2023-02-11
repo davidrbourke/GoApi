@@ -11,3 +11,5 @@
 2. docker run -d -p 4001:8080 mygoapi
  
  Open browser and enter url: http://localhost:4000
+
+Testing ssh
